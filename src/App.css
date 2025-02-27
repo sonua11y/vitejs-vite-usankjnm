@@ -40,3 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+
+.book-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding: 20px;
+}
